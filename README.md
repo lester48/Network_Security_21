@@ -1,1 +1,1 @@
-# Network Security Bootcamp 2021
+# Network Security 7 Days Bootcamp 2021
